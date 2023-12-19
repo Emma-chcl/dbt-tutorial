@@ -1,0 +1,17 @@
+jaffle_shop :
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: ROFSPPJ.UH27333
+
+      # User/password auth
+      user: EMMA
+      password: bigData35*
+
+      role: SYSADMIN
+      database: RAW
+      warehouse: transforming
+      schema: jaffle_shop
+      threads: 1
+      client_session_keep_alive: False
