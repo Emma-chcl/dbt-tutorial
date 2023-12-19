@@ -1,10 +1,12 @@
 
-name: jaffle_shop # Change from the default, `my_new_project`
+name: jaffle_shop
 
 
 
 profile: jaffle_shop # Change from the default profile name, `default`
 
 
-models:    
-        example:
+models:
+        example :
+    
+
